@@ -7,4 +7,5 @@ chicken fry
 beans
 pizza
 
-thanks
+thanks you
+done my changes
